@@ -13,7 +13,8 @@ A free web proxy that will allow you to unblock sites at school
 - About:blank
 - Better UI
 <a href="https://discord.gg/GfQzxdtYhH" target="_blank">
-    <img src="https://lh3.googleusercontent.com/ogw/AKPQZvwouZEE-3uyREzAgCOVF_ZYQ9ikLE6N-C7WmOtv2w=s64-c-mo" alt="Discord" width="150" height="150">
+    <img src="<img src="https://img.freepik.com/free-photo/funny-nerdy-man-wearing-big-glasses_329181-1841.jpg" alt="What?"/><img width="417" height="626" alt="image" src="https://github.com/user-attachments/assets/665f6a87-02e8-477a-833b-1e802bd2bcba" />
+" alt="Discord" width="150" height="150">
 </a>
 
 
