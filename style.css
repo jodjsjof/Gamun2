@@ -74,9 +74,9 @@ main {
 .card:hover,
 .card:focus,
 .card:active {
-  color: #0070f3;
-  border-color: #0070f3;
-  background-color: #e0f7fa; /* Add a background color for the hover effect */
+  color: #b3b5b4;
+  border-color: #b3b5b4;
+  background-color: #D0D6D3; /* Add a background color for the hover effect */
 }
 
 .card h2 {
